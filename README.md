@@ -27,14 +27,14 @@ The illustrations below are the statistics about the Deeply Korean Read Speech C
 The sample is a partial set of recordings from a single subject group(sub1001), which consists of 20-year-old female(speaker a) and 49-year-old female(speaker b).
 
 <p float="left">
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig0.png" width="266" />
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig1.png" width="266" /> 
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig2.png" width="266" />
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig0.png" width="300" />
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig1.png" width="300" /> 
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig2.png" width="300" />
 </p>
 <p float="left">
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig3.png" width="266" />
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig4.png" width="266" /> 
-  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig5.png" width="266" /> 
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig3.png" width="275" />
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig4.png" width="275" /> 
+  <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig5.png" width="275" /> 
 </p>
   <img src="https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/fig6.png" width="266" /> 
 
