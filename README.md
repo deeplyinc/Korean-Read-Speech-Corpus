@@ -110,7 +110,7 @@ _Length_: length of the signal in secods
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 ![Vue](https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/etc/by-nc-nd.png)
 
-## Other Deeply dataset
+## Other Deeply datasets
 * **[Deeply Nonverbal Vocalization Dataset](https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset)**
   - A human nonverbal vocal sound dataset by Deeply Inc.
 * **[Deeply Parent-Child Vocal Interaction Dataset](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset)**
