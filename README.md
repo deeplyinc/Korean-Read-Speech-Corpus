@@ -112,9 +112,9 @@ Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 ## Other Deeply dataset
 <ul>
-[**Deeply Korean Read Speech Corpus**](https://github.com/deeplyinc/Korean-Read-Speech-Corpus)
-[**Deeply Nonverbal Vocalization Dataset**](https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset)
-[**Deeply Parent-Child Vocal Interaction Dataset**](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset)
+* **[Deeply Korean Read Speech Corpus](https://github.com/deeplyinc/Korean-Read-Speech-Corpus)**
+* **[Deeply Nonverbal Vocalization Dataset]https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset)**
+* **[Deeply Parent-Child Vocal Interaction Dataset](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset)**
 </ul>
 
 ## Contact
